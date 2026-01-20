@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Pokédex Logo" width="120"/>
+  <img src="assets/icon.png" alt="Pokédex Logo" width="120"/>
 </p>
 
 <p align="center">
