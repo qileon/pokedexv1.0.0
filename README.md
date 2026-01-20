@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/qileon/pokedexv1.0.0/releases/download/v1.0.0/Pokedex%20Setup%201.0.0.exe">
-    <img src="https://raw.githubusercontent.com/qileon/pokedexv1.0.0/main/icon.png" alt="Download Pokédex" width="140"/>
+    <img src="assets/icon.png" alt="Download Pokédex" width="140"/>
   </a>
 </p>
 
