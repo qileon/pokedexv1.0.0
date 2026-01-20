@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/icon.png" alt="Pokédex Logo" width="120"/>
+  <a href="https://github.com/qileon/pokedexv1.0.0/releases/download/v1.0.0/Pokedex%20Setup%201.0.0.exe">
+    <img src="icon.png" alt="Download Pokédex" width="140"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/qileon/pokedexv1.0.0/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge" alt="Download for Windows"/>
-  </a>
+  <b>Click the icon to download (Windows)</b>
 </p>
 
 ---
