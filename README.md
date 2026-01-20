@@ -71,7 +71,7 @@ This application is for everyone:
 
 ## Installation
 
-1. Go to the **Releases** page  
+1. Click the icon at the top of this page  
 2. Download `Pokedex Setup 1.0.0.exe`  
 3. Run the installer and follow the setup steps  
 
