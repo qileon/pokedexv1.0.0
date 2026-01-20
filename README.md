@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/qileon/pokedexv1.0.0/releases/download/v1.0.0/Pokedex%20Setup%201.0.0.exe">
+  <a href="https://github.com/qileon/pokedexv1.0.0/releases/download/v1.0.0/Pokedex.Setup.1.0.0.exe">
     <img src="assets/icon.png" alt="Download Pokédex" width="140"/>
   </a>
 </p>
