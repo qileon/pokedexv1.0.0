@@ -1,8 +1,18 @@
-# Pokédex 
+<p align="center">
+  <img src="assets/logo.png" alt="Pokédex Logo" width="120"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/qileon/pokedexv1.0.0/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge" alt="Download for Windows"/>
+  </a>
+</p>
+
+---
+
+# Pokédex Desktop App
 
 A Windows desktop Pokédex application built with Electron and React.
-
-[![Download](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge)](https://github.com/qileon/pokedexv1.0.0/releases/latest)
 
 ---
 
@@ -19,27 +29,27 @@ I have been working on this project for about **7–8 months**, and I believe th
 
 ## Features
 
-- Pokémon list with fast search
-- Detailed Pokémon view
-- Pokémon types and base stats
-- Best moveset suggestions
-- Best (battle perfect) IV stats
+- Pokémon list with fast search  
+- Detailed Pokémon view  
+- Pokémon types and base stats  
+- Best moveset suggestions  
+- Best (battle perfect) IV stats  
 - EV stats recommendations  
-  *(For different playstyles, I still recommend checking Smogon for the best results)*
-- 3 different themes
-- Nature Library
-- Moves Library
-- Pokémon comparison
-- Favorite Pokémon system
+  *(For different playstyles, I still recommend checking Smogon for the best results)*  
+- 3 different themes  
+- Nature Library  
+- Moves Library  
+- Pokémon comparison  
+- Favorite Pokémon system  
 
 ---
 
 ## Target Audience
 
-This application is for **everyone**:
-- People who want to learn about Pokémon
-- Players who want to compare Pokémon
-- Players who want to train and improve their Pokémon
+This application is for everyone:
+- People who want to learn about Pokémon  
+- Players who want to compare Pokémon  
+- Players who want to train and improve their Pokémon  
 
 ---
 
@@ -51,19 +61,19 @@ This application is for **everyone**:
 
 ## Built With
 
-- Electron
-- React
-- Vite
-- TypeScript
-- Node.js
+- Electron  
+- React  
+- Vite  
+- TypeScript  
+- Node.js  
 
 ---
 
 ## Installation
 
 1. Go to the **Releases** page  
-2. Download `Pokedex Setup 1.0.0.exe`
-3. Run the installer and follow the setup steps
+2. Download `Pokedex Setup 1.0.0.exe`  
+3. Run the installer and follow the setup steps  
 
 No terminal, Node.js, or npm knowledge is required.
 
